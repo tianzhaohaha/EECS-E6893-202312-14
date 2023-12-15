@@ -14,7 +14,7 @@
 
 ### Tree Diagram of Project Body
 
-![image-20231215135034651](C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215135034651.png)
+![image-20231215135034651](./fig/image-20231215135034651.png)
 
 ### Data Generation
 
@@ -24,7 +24,7 @@
 
 •Step 2: After crafting web crawlers to extract company-specific news titles, we detect and confirm company mentions within the extracted text.
 
-<img src="C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215134632655.png" alt="image-20231215134632655" style="zoom:50%;" />
+<img src="./fig/image-20231215134632655.png" alt="image-20231215134632655" style="zoom:50%;" />
 
 **Stock data acquisition:**
 
@@ -32,7 +32,7 @@
 
 •Step 2: Construct a spatio-temporal graph
 
-<img src="C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215134741673.png" alt="image-20231215134741673" style="zoom:50%;" />
+<img src="./fig/image-20231215134741673.png" alt="image-20231215134741673" style="zoom:50%;" />
 
 
 
@@ -45,14 +45,14 @@
 
 ### CNN Based STGNN&LSTM Based STGNN
 
-<img src="C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215134913566.png" alt="image-20231215134913566" style="zoom:70%;" />
+<img src="./fig/image-20231215134913566.png" alt="image-20231215134913566" style="zoom:70%;" />
 
-<img src="C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215134928065.png" alt="image-20231215134928065" style="zoom:60%;" />
+<img src="./fig/image-20231215134928065.png" alt="image-20231215134928065" style="zoom:60%;" />
 
 
 
 ### Airflow Deployment
 
-<img src="C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215134705861.png" alt="image-20231215134705861" style="zoom:50%;" />
+<img src="./fig/image-20231215134705861.png" alt="image-20231215134705861" style="zoom:50%;" />
 
-<img src="C:\Users\LiuQingyuan\AppData\Roaming\Typora\typora-user-images\image-20231215135143114.png" alt="image-20231215135143114" style="zoom:50%;" />
+<img src="./fig/image-20231215135143114.png" alt="image-20231215135143114" style="zoom:50%;" />
