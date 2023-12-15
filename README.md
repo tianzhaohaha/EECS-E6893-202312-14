@@ -32,10 +32,6 @@
 
 •Step 2: Construct a spatio-temporal graph
 
-<img src="./fig/image-20231215134741673.png" alt="image-20231215134741673" style="zoom:20%;" />
-
-
-
 | **Type**            | **Value** |
 | ------------------- | --------- |
 | **Nodes**           | 503       |
@@ -43,7 +39,7 @@
 | **Features**        | 5         |
 | **Temporal Length** | 3650      |
 
-### CNN Based STGNN&LSTM Based STGNN
+### LSTM&CNN Based STGNN&LSTM Based STGNN
 
 <img src="./fig/image-20231215134913566.png" alt="image-20231215134913566" style="zoom:70%;" />
 
