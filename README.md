@@ -53,6 +53,4 @@
 
 ### Airflow Deployment
 
-<img src="./fig/image-20231215134705861.png" alt="image-20231215134705861" style="zoom:50%;" />
-
 <img src="./fig/image-20231215135143114.png" alt="image-20231215135143114" style="zoom:50%;" />
