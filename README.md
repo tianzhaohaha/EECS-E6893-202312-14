@@ -32,7 +32,7 @@
 
 •Step 2: Construct a spatio-temporal graph
 
-<img src="./fig/image-20231215134741673.png" alt="image-20231215134741673" style="zoom:50%;" />
+<img src="./fig/image-20231215134741673.png" alt="image-20231215134741673" style="zoom:20%;" />
 
 
 
